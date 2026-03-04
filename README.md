@@ -31,8 +31,6 @@ java Main
 ## Files
 - `Main.java` — source code.
 - `processes.txt` — sample input.
-- `report.txt` — project writeup (fill in your name/course).
-- `RoyaHosseini-Operating Systems Project 1-Spring 26.pdf` — assignment handout (optional to keep in repo).
 
 ## Notes
 - Priority scheduling is non-preemptive; SRTF/preemptive priority can be added if needed.
